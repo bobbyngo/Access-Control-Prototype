@@ -3,7 +3,7 @@
 ### Description
 A Python app that implement access control prototype using RBAC (Role-based access control) and Access Control Matrix. The passwd.txt is acting like a database
 
-### Passowrd policy
+### Password policy
 
 - Passwords must be least 8-12 characters in length
 - Password must include at least:
@@ -15,6 +15,23 @@ A Python app that implement access control prototype using RBAC (Role-based acce
 – Special Note: The list should be flexible to allow for the addition of new exclusions over time.
 - Passwords matching the format of calendar dates, license plate numbers, telephone numbers, or other common numbers must be prohibited
 - Passwords matching the user ID must be prohibited
+
+### Access Control Policy
+- Clients can view their account balance, view their investments portfolio, and view the contact details
+of their Financial Advisor
+- Premium Clients can modify their investment portfolio and view the contact details of their Financial
+Planner and Investment Analyst
+- All Finvest Holdings employees (except for Technical Support) can view a client’s account balance and
+investment portfolio, but only Financial Advisors, Financial Planners, and Investment Analysts can
+modify a client’s investment portfolio.
+- Financial Planners can view money market instruments.
+- Financial Advisors and Financial Planners can view private consumer instruments.
+- Investment Analysts can view money market instruments, derivatives trading, interest instruments,
+and private consumer instruments.
+- Technical Support can view a client’s information and request client account access to troubleshoot
+client’s technical issues.
+- Tellers can only access the system during business hours from 9:00AM to 5:00PM.
+- Compliance Officers can validate modifications to investment portfolios
 
 ### Registration
 Navigate to user_register_ui.py and run the program to register. If the password doesn't match the policy, error will display </br>
