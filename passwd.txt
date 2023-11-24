@@ -1,0 +1,3 @@
+bobby:$2b$10$XBfL0kr./I.geRdi23G.Xe4nIwf8XZsim1I2YLOoAA7.X6uO9I4gO:Regular_Client
+NelsonWilkins:$2b$10$FIl4vwbESlfHzg8GgI4pHu8RNeMXOz9yXBA49lzgGI6LGA4KcYXHu:Financial_Advisor
+StacyKent:$2b$10$/5dE5FMoCH95bLBLTp6guu.KGqfyqnarklTuWJFI6prerSHeMc5WS:Investment_Analyst
