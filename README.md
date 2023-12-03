@@ -35,7 +35,7 @@ client’s technical issues.
 
 ### Registration
 Navigate to user_register_ui.py and run the program to register. If the password doesn't match the policy, error will display </br>
-![image](https://github.com/bobbyngo/Access-Control-Prototype/assets/76576373/e5242d00-4394-42d7-aab5-0832317bf252)
+![image](https://github.com/bobbyngo/Access-Control-Prototype/assets/76576373/cc7adebe-fa60-4bc0-a139-1016064a83da)
 </br>
 ![image](https://github.com/bobbyngo/Access-Control-Prototype/assets/76576373/ff4ac052-64cb-4cdc-9f67-f838f75ce703)
 
